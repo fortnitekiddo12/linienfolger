@@ -1,0 +1,29 @@
+{
+    "name": "Linienfolger",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "v2": "*",
+        "motion-kit": "github:tinysuperlab/motionkitv2#7c4f5fed7113002ade5d38f0e457577ce0e4dc8b"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v6.0.27",
+        "tag": "v6.0.27",
+        "commits": "https://github.com/microsoft/pxt-calliope/commits/ed211b0a2354ec8bd5abb15c5373bfbd3ad0c03f",
+        "target": "6.0.28",
+        "pxt": "9.0.12",
+        "targetId": "calliopemini"
+    },
+    "supportedTargets": [
+        "calliopemini"
+    ],
+    "preferredEditor": "blocksprj"
+}
